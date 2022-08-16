@@ -1,12 +1,11 @@
 .header-main {
-    color: dodgerblue;
-    background-color: aliceblue;
-    font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
-    height: 70px;
-    text-align: center;
-    font-size: 52px;
-    margin: 0px;
-    padding: 0px;
-
-
+  color: dodgerblue;
+  background-color: aliceblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  height: 70px;
+  text-align: center;
+  font-size: 52px;
+  margin: 0;
+  padding: 0;
+  
 }
